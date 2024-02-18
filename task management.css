@@ -1,0 +1,17 @@
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiVVLWDRzdaOyZJ-Gy-vaGCm4axZaejLxFqw&usqp=CAU");
+    background-size: cover;
+    border: solid black;
+    height: 200px;
+}
+h1{
+    font-size: 50px;
+    font-style: italic;
+}
+button{
+    color: whitesmoke;
+    background-color:red;
+}
+button:hover{
+    background-color:blueviolet;
+}
